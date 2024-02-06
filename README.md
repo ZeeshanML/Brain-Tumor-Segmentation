@@ -10,7 +10,7 @@ The purpose of this tutorial is to show you how it is possible to build and trai
 
 At the end of this tutorial, you will have learnt the principal methods to **segment brain tumors**.
 
-![image](Images/Segmentation Gif.gif){.thumbnail}
+![image](Images/segmentation.gif){.thumbnail}
 
 > [!primary]
 >
