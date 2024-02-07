@@ -1,3 +1,3 @@
 # Brain Tumor Segmentation (BraTS)
 
-![image](Image/segmentation.gif)
+![image](images/segmentation.gif)
